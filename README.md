@@ -24,7 +24,7 @@
 ## Deliverable 2: Reducing Data Dimensions Using PCA
 -	For this, I created a PCA dataframe using 3 principal components: 
 
-![] (https://github.com/Beetleee/Cryptocurriencies/blob/main/Resources/Plot4.png)
+![](https://github.com/Beetleee/Cryptocurriencies/blob/main/Resources/Plot4.png)
 ![](https://github.com/Beetleee/Cryptocurriencies/blob/main/Resources/Plot4_5.png)
 
 
